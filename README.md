@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B0RN4C0D3
-- 👀 I’m interested in Computer science
+- 👀 I’m interested in CTFs
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me n3trunning@gmail.com
